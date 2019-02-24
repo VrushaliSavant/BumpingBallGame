@@ -1,2 +1,0 @@
-# VrushaliSavant
-Created with CodeSandbox
